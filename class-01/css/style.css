@@ -1,0 +1,21 @@
+body{
+    font-family: 'Roboto Serif', serif;
+}
+
+div{
+    width:1200px;
+    margin:auto;
+}
+h1{
+    background-color: aquamarine;
+    color:mediumslateblue;
+    font-family: 'Roboto Serif', serif;
+    text-align: center;
+
+}
+span{
+    color: chocolate;
+    font-family: 'Roboto Serif', serif;
+    font-weight: bold;
+
+}
